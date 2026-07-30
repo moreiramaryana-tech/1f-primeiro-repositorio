@@ -4,5 +4,13 @@ img {
 
 header {
     background-color: black;
-    color:rgb(127, 29, 218)
+    color:rgb(1, 138, 207)
+    text-align center
+    max-width 800px
+    margin 16px;
+    padding: 16px;
+}
+
+main {
+    background-color: blueviolet
 }
